@@ -1,9 +1,7 @@
 Exercise description
 
 Create an interface in Java corresponding to the Stack ADT from chap. 5 [Car]. Implement the interface using an array.
-Implement the interface using a single-linked list.
 Create a test program to test your stack.
-Determine the time complexity (Big-O) of the stack’s methods.
 
 public interface StackADT<T> {
 	/**
